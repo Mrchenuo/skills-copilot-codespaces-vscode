@@ -1,0 +1,47 @@
+// create web server
+// create a web server and listen to port 3000
+// create a route for comments
+// create a route for comments/new
+// create a route for comments/:id
+// create a route for comments/:id/edit
+// create a route for comments/:id/delete
+// create a route for comments/:id/like
+// create a route for comments/:id/dislike
+// create a route for comments/:id/flag
+// create a route for comments/:id/unflag
+// create a route for comments/:id/subscribe
+// create a route for comments/:id/unsubscribe
+// create a route for comments/:id/flagged
+// create a route for comments/:id/liked
+// create a route for comments/:id/subscribed
+// create a route for comments/:id/likes
+// create a route for comments/:id/flags
+// create a route for comments/:id/subscribers
+// create a route for comments/:id/likers
+// create a route for comments/:id/flaggers
+// create a route for comments/:id/subscribers
+// create a route for comments/:id/likers
+// create a route for comments/:id/flaggers
+// create a route for comments/:id/subscribe
+// create a route for comments/:id/unsubscribe
+// create a route for comments/:id/like
+// create a route for comments/:id/dislike
+// create a route for comments/:id/flag
+// create a route for comments/:id/unflag
+// create a route for comments/:id/flagged
+// create a route for comments/:id/liked
+// create a route for comments/:id/subscribed
+// create a route for comments/:id/likes
+// create a route for comments/:id/flags
+// create a route for comments/:id/subscribers
+// create a route for comments/:id/likers
+// create a route for comments/:id/flaggers
+// create a route for comments/:id/subscribers
+// create a route for comments/:id/likers
+// create a route for comments/:id/flaggers
+// create a route for comments/:id/subscribe
+// create a route for comments/:id/unsubscribe
+// create a route for comments/:id/like
+// create a route for comments/:id/dislike
+// create a route for comments/:id/flag
+// create a
